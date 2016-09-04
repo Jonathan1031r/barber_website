@@ -1,4 +1,10 @@
 div{
 	border-style: solid;
-	border-color: black;
+	border-color: red;
+}
+
+body{
+	background-image: url("images/1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
 }
