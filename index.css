@@ -1,6 +1,7 @@
 div{
 	border-style: solid;
 	border-color: red;
+	background: transparent;
 }
 
 body{
